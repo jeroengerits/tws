@@ -1,2 +1,9 @@
-# tws
-Tailwind CSS, Vite JS, Typescript, Prettier, Boilerplate
+# TWS
+
+Simple boilerplate
+
+- Typescript
+- React
+- Tailwind CSS
+- Vite JS
+- Prettier
