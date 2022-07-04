@@ -7,7 +7,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "format": "prettier --write .",
-    "lint": "eslint --ext=.jsx,.js,.tsx,.ts --fix ."
+    "lint": "eslint --ext=.jsx,.js,.tsx,.ts --fix .",
+    "fix": "yarn lint && yarn format"
   },
   "dependencies": {
     "react": "^18.0.0",
